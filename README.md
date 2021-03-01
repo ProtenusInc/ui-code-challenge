@@ -18,6 +18,7 @@ This repository is essentially a bootstrapped [Create React App](https://github.
 
 1. Install yarn
 1. Clone this repository with ```git clone https://github.com/ProtenusInc/ui-code-challenge.git```
+1. Install dependencies by executing ```yarn install``` from within the ui-code-challenge directory
 1. Start up the application by executing ```yarn start``` from within the ui-code-challenge directory
 1. Your application should be accessible in your browser via ```http://localhost:3000```
 

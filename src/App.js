@@ -46,7 +46,7 @@ function App() {
         <p>
           If at any time you have a question about this task, feel free to reach out to one of
           the development team members. When you have finished we would like you to <strong>
-          submit your code by way of Dropbox, Google Drive, etc. (<em>not</em> a Git branch/fork).
+          submit your code using the Greenhouse submission link. (<em>not</em> a Git branch/fork).
         </strong>
         </p>
       </section>
