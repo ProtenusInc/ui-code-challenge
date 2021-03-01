@@ -1,4 +1,3 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,7 +6,17 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">Welcome to the Protenus UI Coding Challenge!</h1>
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
       <section className="App-instructions">
         <h2>Introduction</h2>
@@ -38,7 +47,7 @@ function App() {
           If at any time you have a question about this task, feel free to reach out to one of
           the development team members. When you have finished we would like you to <strong>
           submit your code by way of Dropbox, Google Drive, etc. (<em>not</em> a Git branch/fork).
-          </strong>
+        </strong>
         </p>
       </section>
     </div>

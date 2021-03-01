@@ -16,10 +16,9 @@ If at any time you have a question about this task, feel free to reach out to on
 
 This repository is essentially a bootstrapped [Create React App](https://github.com/facebookincubator/create-react-app) project with some slight modifications. Head over to their Github page for more documentation. To get started you will want to:
 
-1. Install npm
-1. Install create-react-app globally with ```npm install -g create-react-app```
+1. Install yarn
 1. Clone this repository with ```git clone https://github.com/ProtenusInc/ui-code-challenge.git```
-1. Start up the application by executing ```npm start``` from within the ui-code-challenge directory
+1. Start up the application by executing ```yarn start``` from within the ui-code-challenge directory
 1. Your application should be accessible in your browser via ```http://localhost:3000```
 
 That's it! From this point on you can go wild with repository.
